@@ -3,6 +3,7 @@ int main()
 {
     int n;
     int s=1;
+    printf("enter the number:\n");
   //enter the number.
     scanf("%d",&n);
   //checking how many does this number take to change to 1.
