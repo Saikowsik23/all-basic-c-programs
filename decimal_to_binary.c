@@ -3,6 +3,7 @@ int main()
 {
     int N;
 //enter the decimal value
+    printf("enter the decimal number:\n");
     scanf("%d",&N);
      int b[32];
      int length;
@@ -23,6 +24,7 @@ int main()
             length=i;
     }
      //this prints it in right order
+    printf("the binary number is: \n");
     printf("1");
     for(int i=length-1;i>=0;i--){
        printf("%d",b[i]);
