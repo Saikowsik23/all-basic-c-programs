@@ -1,7 +1,4 @@
 #include<stdio.h>
-int solution(){
-
-}
 int main()
 {
     int n;
