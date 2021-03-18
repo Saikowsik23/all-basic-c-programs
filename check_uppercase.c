@@ -2,6 +2,7 @@
 int main()
 {
     char str[100];
+    printf("enter the string to check uppercase character or not: \n");
     scanf("%s",&str);
     int s;
     for(int i=0;str[i]!='\0';i++){
