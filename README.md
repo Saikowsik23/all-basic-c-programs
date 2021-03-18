@@ -29,3 +29,14 @@ Input:
  level 
 Output:
  1 
+# sum execpt smallest and largest
+Given a list, find the sum of numbers excluding largest and smallest one. If there are multiple smallest value, exclude just one, and likewise for the largest value. 
+this is a function solution that accepts a list.
+Input:
+    9 
+    4 3 6 8 9 2 1 5 9
+    Where, 
+First line represents the size of the list, N.
+The second line represents list elements separated by single space. All the elements of the list should be on a single line.
+Output:
+     37
