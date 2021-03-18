@@ -22,3 +22,10 @@ Second line represents the elements in the array.
 Output:
 2
 Explanation: Substracting all the elements of arrays from 2, The sum of difference is: 1 + 0 + (-1) = 0.
+# palindrome
+A string is said to be a palindrome if the original string and the reverse of the string are the same. MALAYALAM is a plaindrome.
+this is a program that takes a string (character array) and displays 1 if string is palindrome else 0. 
+Input:
+ level 
+Output:
+ 1 
