@@ -40,3 +40,19 @@ First line represents the size of the list, N.
 The second line represents list elements separated by single space. All the elements of the list should be on a single line.
 Output:
      37
+# insert an element at index k
+Given an array of integers, write a program to insert an element X at index K.
+Input:
+    5
+    10 20 30 40 50
+    15
+    1  
+    where:
+First line represents the number of elements in the array.
+Second line represents the elements in the array.
+Third line represents element X to be inserted.
+Fourth line represents the index K, where the element is to be inserted.
+
+Output:
+    10 15 20 30 40 50
+Explanation: Output displays the elements of the array after inserting the element X=15 at index K=1.
